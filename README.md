@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+Reference:
+For part 1:
+1. Add style.css
+2. Add fontSize.js to change font size and color
+3. modify the background
+4. 
